@@ -8,7 +8,7 @@ Hello! My name is Lucy Storts and I am a senior studying statistics at BYU. I to
 
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/picofme.jpg)
 
-Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited reunited once I graduate. 
+Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited to reunite when I graduate. 
 
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/benson.jpg)
 
