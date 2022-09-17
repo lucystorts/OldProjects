@@ -17,5 +17,7 @@ Some of my professional interests include epidemiological data, climate change, 
 Finally, I wanted to thank you for checking out my blog! Just for fun, here are a couple pictures I took this summer while hiking at Glacier NP...
 
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp1.jpg)
+<br>
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp2.jpg)
+<br>
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp3.jpg)
