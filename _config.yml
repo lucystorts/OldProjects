@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data: Dilemmas & Discussions # Make a title for your blog
-email: lucystorts@gmail.com # Add your email
-description: >- This blog will explore my different interests in data science and catalog my projects. Thanks for stopping by!
+title: "Data: Dilemmas & Discussions" # Make a title for your blog
+email: "lucystorts@gmail.com" # Add your email
+description: >- "This blog will explore my different interests in data science and catalog my projects. Thanks for stopping by!"
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://lucystorts.github.io"
 image: "assets/images/main.jpg"
-author: Lucy Storts
-copyright: LS # Your initials or what you want the copyright to be.  Leave empty for no copyright
+author: "Lucy Storts"
+copyright: "LS" # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username:
-github_username:  lucystorts
+github_username: "lucystorts"
 linkedin_username:
 dribbble_username: 
 facebook_username:
