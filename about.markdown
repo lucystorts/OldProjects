@@ -4,11 +4,11 @@ title: About
 permalink: https://lucystorts.github.io/stat386-projects/
 ---
 
-Hello! My name is Lucy Storts and I am a senior studying statistics at BYU. I took at statistics class in high school and was fascinated by all the different fields statistics can be applicatied to. Now, my studies focus on data science and I hope to be able to work with data of all kinds.
+Hello! My name is Lucy Storts and I am a senior studying statistics at BYU. I took a statistics class in high school and was fascinated by all the different fields statistics can be applicatied to. Now, my studies focus on data science and I hope to be able to work with data of all kinds.
 
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/picofme.jpg)
 
-Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited to be reunited once I graduate. 
+Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited reunited once I graduate. 
 
 ![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/benson.jpg)
 
